@@ -1,0 +1,10 @@
+C:\Users\KS2403_23\source\repos\lr2\lr2\bin\Debug\lr2.exe.config
+C:\Users\KS2403_23\source\repos\lr2\lr2\bin\Debug\lr2.exe
+C:\Users\KS2403_23\source\repos\lr2\lr2\bin\Debug\lr2.pdb
+C:\Users\KS2403_23\source\repos\lr2\lr2\obj\Debug\lr2.csproj.AssemblyReference.cache
+C:\Users\KS2403_23\source\repos\lr2\lr2\obj\Debug\lr2.Form1.resources
+C:\Users\KS2403_23\source\repos\lr2\lr2\obj\Debug\lr2.Properties.Resources.resources
+C:\Users\KS2403_23\source\repos\lr2\lr2\obj\Debug\lr2.csproj.GenerateResource.cache
+C:\Users\KS2403_23\source\repos\lr2\lr2\obj\Debug\lr2.csproj.CoreCompileInputs.cache
+C:\Users\KS2403_23\source\repos\lr2\lr2\obj\Debug\lr2.exe
+C:\Users\KS2403_23\source\repos\lr2\lr2\obj\Debug\lr2.pdb

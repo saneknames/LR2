@@ -32,6 +32,8 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.Лабораторная = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button5
@@ -54,7 +56,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(567, 261);
+            this.button3.Location = new System.Drawing.Point(568, 261);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(134, 55);
             this.button3.TabIndex = 6;
@@ -71,18 +73,40 @@
             this.button4.Text = "++-";
             this.button4.UseVisualStyleBackColor = true;
             // 
+            // Лабораторная
+            // 
+            this.Лабораторная.AutoSize = true;
+            this.Лабораторная.Font = new System.Drawing.Font("Noto Serif Cond", 20.25F, System.Drawing.FontStyle.Bold);
+            this.Лабораторная.Location = new System.Drawing.Point(403, 44);
+            this.Лабораторная.Name = "Лабораторная";
+            this.Лабораторная.Size = new System.Drawing.Size(325, 37);
+            this.Лабораторная.TabIndex = 8;
+            this.Лабораторная.Text = "Лабораторная работа №2";
+            this.Лабораторная.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(79, 261);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(134, 55);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "Вычислить";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.Лабораторная);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button5);
             this.Name = "Form1";
-            this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -91,6 +115,8 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label Лабораторная;
+        private System.Windows.Forms.Button button1;
     }
 }
 
